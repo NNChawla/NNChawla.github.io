@@ -1,1 +1,9 @@
-<img src="Armadillo.gif" alt="Armadillo">
+<!DOCTYPE html>
+<html>
+     <head>
+          <title>My Website Title</title>
+     </head>
+     <body>
+          <img src="Armadillo.gif" alt="Armadillo">
+     </body>
+</html>
